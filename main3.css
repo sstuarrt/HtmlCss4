@@ -22,6 +22,9 @@
     display: inline-block;
     margin: 50px 15px;
 }
+.logo:hover {
+    background-color: firebrick;
+}
 
 .text_block {
     display: block;

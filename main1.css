@@ -1,0 +1,144 @@
+.big_block {
+    width: 700px;
+    height: 500px;
+}
+
+.block_one {
+    width: 100px;
+    height: 500px;
+    position: relative;
+    background: linear-gradient(to top, darkred, red);
+    float: left;
+}
+.block_one p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Noto Serif Georgian', serif;
+    font-size: 50px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+.block_two {
+    width: 100px;
+    height: 500px;
+    position: relative;
+    background: linear-gradient(to top, pink, darkblue);
+    float: left;
+}
+.block_two p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Noto Serif Georgian', serif;
+    font-size: 50px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+.block_three {
+    width: 100px;
+    height: 500px;
+    position: relative;
+    background: linear-gradient(to top, orange, aquamarine);
+    float: left;
+}
+.block_three p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Noto Serif Georgian', serif;
+    font-size: 50px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+.block_four {
+    width: 100px;
+    height: 500px;
+    position: relative;
+    background: linear-gradient(to top, seagreen, brown);
+    float: left;
+}
+.block_four p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Noto Serif Georgian', serif;
+    font-size: 50px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+.block_five {
+    width: 100px;
+    height: 500px;
+    position: relative;
+    background: linear-gradient(to top, bisque, hotpink);
+    float: left;
+}
+.block_five p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Noto Serif Georgian', serif;
+    font-size: 50px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+.block_six {
+    width: 100px;
+    height: 500px;
+    position: relative;
+    background: linear-gradient(to top, darkred, red);
+    float: left;
+}
+.block_six p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Noto Serif Georgian', serif;
+    font-size: 50px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+.block_seven {
+    width: 100px;
+    height: 500px;
+    position: relative;
+    background: linear-gradient(to top, beige, chocolate);
+    float: left;
+}
+.block_seven p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Noto Serif Georgian', serif;
+    font-size: 50px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}

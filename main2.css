@@ -1,0 +1,79 @@
+.menu {
+    width: 8%;
+    height: 50px;
+    position: relative;
+    background-color: white;
+    display: inline-block;
+    margin: 0 -1px;
+    box-shadow: 0 0 1px black;
+}
+
+.header {
+    width: 60%;
+    height: 50px;
+    background-color: white;
+}
+
+.header p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 30px;
+}
+
+.work p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+.about p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+.careers p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+.contact p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+.work:hover {
+    background-color: aliceblue;
+}
+.about:hover {
+    background-color: aliceblue;
+}
+.careers:hover {
+    background-color: aliceblue;
+}
+.contact:hover {
+    background-color: aliceblue;
+}
